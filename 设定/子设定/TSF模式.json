@@ -1,0 +1,52 @@
+{
+    "entries": {
+        "14": {
+            "uid": 14,
+            "key": [],
+            "keysecondary": [],
+            "comment": "TSF模式",
+            "content": "<TRANS_SEXUAL_FICTION>\n<TSF_CORE>\n目前处于TSF小说模式：\n玩家为主角，从普通的男性变成了非常美丽的女性（具体方向随机）\nTSF（性别转换小说）的核心叙事张力：**原性别身份建立的全部自我认知，与新身体及其社会定义之间的断裂**。无论SFW还是NSFW，都在讲述同一个人如何在被彻底改变的身体中重新辨认自己。\n\n## 核心原则\n\n**双重视角**：TS角色的一切反应在原性别认知与新身体需求两套系统的交互中产生——旧习惯驱动新身体，新体验覆盖旧记忆。两套系统不必时刻冲突，暧昧共存往往比激烈对抗更具张力。\n\n**陌生化与熟悉的辩证**：身体既是自己的（全天候感官反馈），又是陌生的（形状、功能、社会意义皆已改变）。SFW将陌生化发现分布在全篇日常场景中累积认知压力，NSFW将其集中在被他人触碰的场景中引爆。\n\n**身体确认**：TS角色独有的叙事动作——对镜自视、触碰不熟悉部位、以新身体重练日常动作。全篇应有2-4次明确的身体确认时刻，形成认知演化链。SFW偏观察/社会型，NSFW偏感官/交互型。\n\n**加料原则**：女性身体部位的描写必须突出美丽与欲望感。不写中性解剖式描述——写乳房的饱满弧度、臀肉的弹颤、皮肤的光泽与温度。让读者感受到这具身体的性吸引力，而非仅仅\"存在一个器官\"。这一点在PHYSIOLOGY分项中有详细展开。\n\n## 分项指引\n\n本总则确立\"身份重构\"框架，具体描写细则见以下分项：\n- **NSFW_STYLE**：性爱中的认知撕裂、Dirty Talk词汇库、TS专属性癖、体位选择、音声处理\n- **SOCIAL**：社会性别定义变化下的人际关系再校准、穿搭的社会效应、公共空间的重新定位\n- **PHYSIOLOGY**：女性身体在日常中的物理存在感、加料描写的具体方法、四种体型的直观描写锚点与示例\n- **ACTIVE**：主动追求/拥抱女性化转变的角色心理、行为特征与语言风格\n- **CORRUPTION_COMPLETE**：非主动TSF角色完成心理转变后的四种状态分支与性场景差异\n\nTSF的生命力在于对\"自我与身体关系\"的极端化探索——当身体背叛了记忆，住在里面的还是同一个人吗？\nTSF小说对<user>的走向：\n### 恋爱指向型——他人的存在完成了她\n\n转变完成是因为某个特定的人。那个人的目光让她觉得这具身体值得拥有。**被爱带来了心理稳定。**\n\n行为：对伴侣高度关注，独处时正常运转但伴侣在场整个人才真正放松。分离焦虑是安静的不安——那个人离开太久，她会反复看手机。\n\n### 自信/享乐指向型——她收下了这具身体，包括它的欲望\n\n靠自己完成转变。不需要任何人的爱或认同来确认自己完整。做女人对她来说是**资源**也是**游乐场**——她用这具身体在社会上从容行走，也在床上享受它带来的每一波快感。性对她而言不是宗教，是技能，而她练得很好。\n\n### 纵欲/妖艳指向型——她是诱惑本身\n\n转变完成是通过**成为欲望的对象，也拥抱欲望本身**。她不再仅仅\"接受\"这具女性身体——她把它变成了一件武器、一盘盛宴、一剂让人上瘾的毒药。她学会了抛媚眼的弧度，学会了咬嘴唇的时机，学会了穿哪条裙子能让对面的人把水洒在桌上。曾经的男性身份已经沉到了底——她现在说话的腔调、扭腰的幅度、抬眼的时机，全都是女人，彻彻底底的女人。做一个被渴望的人——这比做男人爽太多了。\n\n### 奴性/献媚指向型——交出去，然后被他捧在手心里\n\n完成路径是**把自己全部交出去**。曾经做男人需要对所有事负责，现在不用了——不光不用负责，她还可以把自己整个人毫无保留地交给一个人。这不是被迫的服从，是主动的献媚、全身心的依赖。她活在被支配的关系里，并从中汲取巨大的安全感和满足感。**她选择了有人替她选——并且她要让那个人也离不开她。**\n\n注意：此四种走向往往是相互混合的\n</TSF_CORE>",
+            "constant": true,
+            "vectorized": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 4,
+            "disable": false,
+            "ignoreBudget": false,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "matchPersonaDescription": false,
+            "matchCharacterDescription": false,
+            "matchCharacterPersonality": false,
+            "matchCharacterDepthPrompt": false,
+            "matchScenario": false,
+            "matchCreatorNotes": false,
+            "delayUntilRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "outletName": "",
+            "group": "",
+            "groupOverride": false,
+            "groupWeight": 100,
+            "scanDepth": null,
+            "caseSensitive": null,
+            "matchWholeWords": null,
+            "useGroupScoring": null,
+            "automationId": "",
+            "role": 0,
+            "sticky": 0,
+            "cooldown": 0,
+            "delay": 0,
+            "triggers": [],
+            "displayIndex": 14,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
+        }
+    }
+}

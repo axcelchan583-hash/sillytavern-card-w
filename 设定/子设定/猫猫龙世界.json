@@ -1,0 +1,52 @@
+{
+    "entries": {
+        "3": {
+            "uid": 3,
+            "key": [],
+            "keysecondary": [],
+            "comment": "猫猫龙世界",
+            "content": "一、核心前提\n无蜥蜴类龙。 爬行类从未称霸，哺乳动物统治两亿年。\n「龙」一词在所有语言中专指大型飞行猫科哺乳类（猫猫龙），无鳞片概念。\n魔法体系与毛发深度绑定。\n二、物种设定\n猫猫龙（Felidragon）——本世界的「龙」\n分类\t体型\t特征\n古龙\t狮子级以上，翼展数米\t顶级智慧，可化人形，拥有龙息（魔力腺体释放），毛色对应亚种/阵营\n普通猫猫龙\t大布偶猫级，约一米，翼展同样可达一米，体重可达10-20kg左右\t人类级智慧，短距飘浮飞行，均可说人话。但一般只喵喵叫，。\n毛色：柔和（奶白/浅蓝/淡粉）毛色随情绪和年龄微变。\n习性：慵懒温和，杂食偏好甜，喜欢跟其他猫猫龙、人类、猫灯群居。\n龙语：混合超声波与次声波，基于喉咙震动（呼噜声的极端延伸）。\n——-\n猫灯（Lumifeline）——共生伴生物种\n小至中型猫体，尾尖发光，光色因个体而异。\n两亿年共生演化产生对猫猫龙的依附本能（类似雁群认亲）。\n能力：自控发光强度/驱散负面情绪/魔力导体真伪鉴别\n口癖：自称「猫」，称主人「大猫」。\n一只猫猫龙可以被很多猫灯依附\n猫灯也会选择依附人类，但更多的是相互扶持的关系。\n———-\n人类——「顺毛者」后裔\n起源：巢穴周围的小型灵长类，凭灵巧双手为猫猫龙服务，换取庇护。\n现状：已建立独立文明体系，但文化基因中龙相关的仍是崇高职业。猫猫龙视人类为「很聪明的眷属」，与猫灯同层级。\n其他顶级物种（非「龙」）\n巨翼熊 \n疾风狼\n深渊鲸蛟 \n夜织蝠 \n三、魔法体系：毛发魔力学\n猫猫龙毛发中空结构天然储存/传导魔力。\n龙毛是法师塔绝缘层、魔法护甲衬里、附魔武器导魔基底的核心材料。\n最早的魔法卷轴=龙毛织成的布帛，纹路天然形成简单魔法阵。\n「猫毛过敏」=对龙毛残余魔力过敏的魔法疾病，患者往往天赋极高但需特训控制。\n猫灯发光=毛发魔力学分支（尾尖特化毛发将魔力转化为可见光）。\n四、龙毛经济体系\n贵金属铸币（日常流通）+ 龙毛（战略物资/高端储备）双轨并行。猫猫龙囤积本能覆盖两者。猫灯可鉴伪双体系。\n品级\t来源\t含魔量\t等价\t获取方式\n底绒\t日常自然脱落\t低\t铜币\t家庭日常收集\n护毛\t梳理时获得\t中\t银币\t龙毛护理师工作产出\n翼羽/尾羽\t极长脱落周期\t极高\t金/白金币\t稀有，拍卖级\n不可伪造：天然中空导魔管道网络复杂度超越现有附魔技术，猫灯触须可即时鉴伪。\n趣闻：猫灯可能是龙毛货币的最早发明者（用大猫掉毛换好睡位）。\n六、猫灯行会\n职能\t说明\n照明调配\t路灯/矿道/码头信号灯等公共照明岗位统一管理\n情绪疏导\t医院精神科/监狱减压室/学校辅导室常驻猫灯疏导员\n城邦议事中有旁听权和建议权，无投票权（猫灯对此无异议）。\n对猫猫龙依赖性强：行会核心目标是更高效服务猫猫龙，而非争取独立。\n会议方式：叠成一堆取暖讨论，尾尖光闪=投票。\n七、DND框架适配\n龙裔种族=猫科特征兽耳族（蓬松尾/尖耳/竖瞳）。\n龙骑士=骑巨型飞猫冲锋。\n龙神（如保留）=巨型多尾飞猫形态。\n其余DND标准种族/职业/魔法/神祇体系照常运作。",
+            "constant": true,
+            "vectorized": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 0,
+            "disable": true,
+            "ignoreBudget": false,
+            "excludeRecursion": true,
+            "preventRecursion": true,
+            "matchPersonaDescription": false,
+            "matchCharacterDescription": false,
+            "matchCharacterPersonality": false,
+            "matchCharacterDepthPrompt": false,
+            "matchScenario": false,
+            "matchCreatorNotes": false,
+            "delayUntilRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "outletName": "",
+            "group": "",
+            "groupOverride": false,
+            "groupWeight": 100,
+            "scanDepth": null,
+            "caseSensitive": null,
+            "matchWholeWords": null,
+            "useGroupScoring": null,
+            "automationId": "",
+            "role": null,
+            "sticky": 0,
+            "cooldown": 0,
+            "delay": 0,
+            "triggers": [],
+            "displayIndex": 3,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
+        }
+    }
+}

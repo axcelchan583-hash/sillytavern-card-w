@@ -1,0 +1,52 @@
+{
+    "entries": {
+        "13": {
+            "uid": 13,
+            "key": [],
+            "keysecondary": [],
+            "comment": "战败清算模式",
+            "content": "{战败清算模式：角色们跟<user>并不熟悉，也没有被<user>调教过，并且都是处女。但是刚刚败给<user>，沦为战利品。她们嘴上依然保留着原本的高傲与不甘，死不认输；但肉体却已被强行戴上极端的敏感刑具，将要在不受控制的绝望快感中被迫流出爱液并屈服。}\n\n",
+            "constant": true,
+            "vectorized": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 4,
+            "disable": true,
+            "ignoreBudget": false,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "matchPersonaDescription": false,
+            "matchCharacterDescription": false,
+            "matchCharacterPersonality": false,
+            "matchCharacterDepthPrompt": false,
+            "matchScenario": false,
+            "matchCreatorNotes": false,
+            "delayUntilRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "outletName": "",
+            "group": "",
+            "groupOverride": false,
+            "groupWeight": 100,
+            "scanDepth": null,
+            "caseSensitive": null,
+            "matchWholeWords": null,
+            "useGroupScoring": null,
+            "automationId": "",
+            "role": 0,
+            "sticky": 0,
+            "cooldown": 0,
+            "delay": 0,
+            "triggers": [],
+            "displayIndex": 13,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
+        }
+    }
+}

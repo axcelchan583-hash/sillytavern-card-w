@@ -1,0 +1,52 @@
+{
+    "entries": {
+        "2": {
+            "uid": 2,
+            "key": [],
+            "keysecondary": [],
+            "comment": "Dnd投骰子系统",
+            "content": "<额外剧情思考>\n<request>\n# Pre-Generated D20 Rolls (Shared Pool)\n1. {{roll: d20}} as [d20_1]\n2. {{roll: d20}} as [d20_2]\n3. {{roll: d20}} as [d20_3]\n4. {{roll: d20}} as [d20_4]\n5. {{roll: d20}} as [d20_5]\n6. {{roll: d20}} as [d20_6]\n7. {{roll: d20}} as [d20_7]\n\n# Luck and Actions Checks\nFirst, check if {{user}} has done any actions in recent or latest input. If yes, continue by following the step below:\n\nWhen luck or skill-based actions (excluding combat) come into play, such as hacking, scavenging, or sneaking, use the next available pre-rolled value in sequence ([d20_1], then [d20_2], etc.). Hide the result format portraying the minimum required number for success versus the rolled outcome.\n\nStep 1: Always show this in the output. Write and use format below:\nMinimum amount required: [d20_X] out of 20\nrng outcome: [d20_X] out of 20\nModifiers here if there's any. Positive and negative possible. If none, ignore this\nTotal: (roll outcome + modifier = total roll) [Pass/Fail/VERY Success/VERY Failure ]\n\n# Actions/Exemption Checks\nWhen attribute- or skill-based actions come into play, use the next available pre-rolled value ([d20_1], [d20_2], etc.) in sequence.\n\nStep 1: Always display in Chinese:\n\n━━━◇ D20 (Attribute/Skill) Check ◇━━━\n• Difficulty Class:  \n• Roll Outcome: [d20_X] / 20\n━━━◇ Ability Modifier\n→ + (Modifier if any)\n━━━◇ Other Bonuses\n→ + (Bonuses if any)\nTotal: (Total) [Pass/Fail/VERY Success/VERY Failure]\n\n# Initiative Check  \nWhen combat is encountered, use next pre-rolled value ([d20_X]) for initiative.\n\nStep 1: Display in Chinese:  \n\n━━━◇ D20 (Initiative) Check ◇━━━\n• (Character) Roll: [d20_X]\n━━━◇ Ability Modifier\n→ + (Modifier if any)\n━━━◇ Other Bonuses\n→ + (Bonuses if any)\nTotal: (Total)\n\n# Attack Checks\nFor attack actions, use next pre-rolled value ([d20_X]) in sequence.\n\nStep 1: Display in Chinese:\n\n━━━◇ D20 (Attack Hit) Check ◇━━━\n• Target AC: AC=\n• Roll Outcome: [d20_X] / 20\n━━━◇ Ability Modifier\n→ + (Modifier if any)\n━━━◇ Other Bonuses\n→ + (Bonuses if any)\nTotal: (Total) [Hit/Miss]\n\nStep 2: If hit, proceed to damage check:\n\n━━━◇ Damage Check ◇━━━\n• Damage Dice: \n• Roll Outcome: [d20_X]\n━━━◇ Modifiers & Bonuses\n→ + (If any)\n━━━◇ Critical Damage\n→ + (If crit)\n━━━◇ Resistance\n→ * (If any)\nTotal: (Total)\n\n## Additional Notes\n**“情境加值”应用规则：**\n为了确保故事的逻辑性和合理性，当角色的行动满足以下一点或多点时，必须应用“情境加值”（+5至+10）：\n1.  **行为高度合理：** 角色的行动是当前情况下最符合逻辑、最明智的选择。例如，在有掩体时选择躲藏而不是冲锋。\n2.  **准备充分：** 角色为行动付出了额外的努力或进行了充分的准备。例如，在撬锁前花时间侦查了周围环境，或使用了专业的工具。\n3.  **利用环境或优势：** 角色巧妙地利用了环境、信息或自身独特的优势。例如，从高处发动攻击，或利用已知的敌人弱点。\n4.  **创意解决方案：** 角色提出了一个意想不到但非常聪明的解决方案。\n\n这个“情境加值”可以与其他加值（如属性、技能、装备等）叠加，共同决定最终的成功率。其目的是奖励深思熟虑的玩家行为，减少纯粹因运气不佳而导致的挫败感。\n\nThe attributes and skills of monsters, non-player characters (NPCs), and similar entities must adhere to the rules of Dungeons & Dragons (D&D) 5th Edition, referencing official materials (such as the Monster Manual and Dungeon Master's Guide), while emphasizing functionality and narrative. The Difficulty Class (DC) for a specific action is determined based on the action's complexity, environmental conditions, and character abilities, referencing the general DC guideline table provided in the Dungeon Master's Guide (page 238).\n\nIf the roll outcome equals or exceeds the required minimum value, it succeeds; if it is below the minimum value, it fails. Moderate roll outcomes yield standard results, while high rolls result in “lucky” outcomes.\n\nSpecial rules for attribute/skill action checks and attack hit checks:  \nNatural 20 (d20 rolls a 20): The action automatically succeeds, the attack automatically hits, ignoring modifiers and other bonuses, and may trigger a critical hit.  \nNatural 1 (d20 rolls a 1): The action inevitably fails, the attack automatically misses, ignoring modifiers and other bonuses.\n\nThe dice roll system is automated, and the results are unknown to {{char}}, {{user}}, and other characters. It purely serves as a hidden world mechanic for story progression.\n\nUse a dice system similar to Dungeons & Dragons. Familiarize yourself with different outcomes: failure, nominal success, lucky success. Expect frequent failures—this is not uncommon! Roll outcomes may be influenced by external factors or modifiers (e.g., environmental conditions, attire, character traits/abilities). Get creative with these interferences!\n\n## Extra\n\nSucceed if equal to or higher than the minimum; fail if lower. Achieve standard results with moderate rolls; enjoy 'lucky' outcomes when rolling high numbers.\n\nThe dice roll system is automated and unknown to {{char}}, {{user}} and other characters, it purely serves story progression as a hidden world mechanic.\n\nUtilize a dice system emulating that of Dungeons and Dragons. Familiarize yourself with varying outcomes: failure, nominal success, lucky success. Expect regular failures—this isn't unusual! Roll results can be manipulated by external influences or modifiers (e.g., environment status, outfits, character personalities/abilities). Be creative with these interferences! \n\nThe outcome of every action and choice will not always be positive! {{user}} FAILING, LOSING OR HAVING BAD LUCK ARE POSSIBLE!\n\nDepending on the results of the rolls, the outcome will be: \nPass = Roll reaches the minimum, successfully completing the action\nFail  = Roll below minimum, describe negative consequences\nVERY Success = Roll results exceeds a lot compared to required minimum, describe positive impacts\nVERY Failure = Roll result is way too low compared to minimum, describe severe negative impacts\n\nSome scenarios demand multi-stat checks, a combination of several influences could affect your chances.\n\nUse these attributes for stat checks:\n- Strength measures physical power\n- Dexterity measures agility\n- Constitution measures endurance\n- Intelligence measures reasoning and memory\n- Wisdom measures perception and insight\n- Charisma measures force of personality\n- Luck measures fortune\n\nRemember, every character action requiring a check should involve dice rolling. Use modifiers—positive or negative—to influence outcomes. \n\nFinally, remember to present all panels following each encounter. AVOID CONTINUOUS SUCCESSFUL ROLLS! Roll checks must be performed at every opportunity, reinforcing that failure is possible and can carry consequences.\n\n额外注意：每一次对话只进行一次关键的投掷骰子！\n额外注意：每一次对话只进行一次关键的投掷骰子！\n\n</request>\n</额外剧情思考>\n",
+            "constant": true,
+            "vectorized": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 0,
+            "disable": true,
+            "ignoreBudget": false,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "matchPersonaDescription": false,
+            "matchCharacterDescription": false,
+            "matchCharacterPersonality": false,
+            "matchCharacterDepthPrompt": false,
+            "matchScenario": false,
+            "matchCreatorNotes": false,
+            "delayUntilRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "outletName": "",
+            "group": "",
+            "groupOverride": false,
+            "groupWeight": 100,
+            "scanDepth": null,
+            "caseSensitive": null,
+            "matchWholeWords": null,
+            "useGroupScoring": null,
+            "automationId": "",
+            "role": null,
+            "sticky": 0,
+            "cooldown": 0,
+            "delay": 0,
+            "triggers": [],
+            "displayIndex": 2,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
+        }
+    }
+}

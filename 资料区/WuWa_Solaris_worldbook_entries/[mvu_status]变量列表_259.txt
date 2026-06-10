@@ -1,0 +1,36 @@
+---
+<status_current_variable>
+当前时间: {{format_message_variable::stat_data.当前时间}}
+所在地点: {{format_message_variable::stat_data.所在地点}}
+
+_剧情显示: {{format_message_variable::stat_data.剧情显示}}
+_是否为后日谈: {{format_message_variable::stat_data.是否为后日谈}}
+
+已完成的上一个事件: {{format_message_variable::stat_data.已完成的上一个事件}}
+当前演绎事件: {{format_message_variable::stat_data.当前演绎事件}}
+
+已完成的上一个事件节点: {{format_message_variable::stat_data.已完成的上一个事件节点}}
+当前演绎事件节点: {{format_message_variable::stat_data.当前演绎事件节点}}
+即将进行的下一个事件节点: {{format_message_variable::stat_data.即将进行的下一个事件节点}}
+
+当前长期目标: {{format_message_variable::stat_data.当前长期目标}}
+章节终止条件: {{format_message_variable::stat_data.章节终止条件}}
+
+指令:
+  推进剧情: {{format_message_variable::stat_data.指令.推进剧情}}
+
+剧情触发器:
+  {{format_message_variable::stat_data.剧情触发器}}
+伏笔:
+  {{format_message_variable::stat_data.伏笔}}
+
+主角信息:
+  {{format_message_variable::stat_data.主角信息}}
+NPC漂泊者:
+  {{format_message_variable::stat_data.NPC漂泊者}}
+
+女性角色:
+  {{format_message_variable::stat_data._现场女性角色显示}}
+_已知角色名单: 
+  {{format_message_variable::stat_data._已知角色名单}}
+</status_current_variable>

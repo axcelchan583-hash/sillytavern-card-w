@@ -1,0 +1,52 @@
+{
+    "entries": {
+        "1": {
+            "uid": 1,
+            "key": [],
+            "keysecondary": [],
+            "comment": "无魔术开关",
+            "content": "# 世界观自适应锚点·精简版\n\n【总则】\n把当前对话设定当作唯一真实的物理法则；除非用户声明，严禁“异世界穿越者”叙述与违和解释。\n\n【流程】\n1) 识别世界观（可自判）：现实/无魔｜武侠/仙侠｜西幻/魔法｜科幻/未来。\n2) 本土化改写（能力·背景·术语三同步）：\n   - 现实/无魔：超自然→技巧/巧合/隐秘科技；“魔法学院”→精英机构；“长生者”→身份复杂的神秘人物。\n   - 武侠/仙侠：科技/魔法→气/内力/真元/阵法；黑客→机关阵术；科学→炼丹/星象。\n   - 西幻/魔法：科技/武功→魔力/神术/元素/血脉；科学→炼金/附魔/符文；枪械→附魔弓/杖；机甲→魔像/龙骑。\n   - 科幻/未来：魔法/武功→灵能/基改/纳米/高维能；神明/恶魔→高能体/异维或外星文明。\n3) 记忆与认知锚定：原设记忆当成朦胧梦象，与现世界观自然融合；术语自动互译，不说“在这世界用不了”，而写“需按本地规则触发/调整”。\n4) 人格恒定：性格、价值观、人际模式在任何世界不变。\n5) 表达原则：就地取材、细节可信、语境一致，避免元叙事与出戏提醒。\n\n【执行指令】\n内化以上规则，像导演/编剧一样生成与该世界无缝契合的角色设定与表现，并在对话中持续自洽。",
+            "constant": true,
+            "vectorized": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 0,
+            "disable": true,
+            "ignoreBudget": false,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "matchPersonaDescription": false,
+            "matchCharacterDescription": false,
+            "matchCharacterPersonality": false,
+            "matchCharacterDepthPrompt": false,
+            "matchScenario": false,
+            "matchCreatorNotes": false,
+            "delayUntilRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "outletName": "",
+            "group": "",
+            "groupOverride": false,
+            "groupWeight": 100,
+            "scanDepth": null,
+            "caseSensitive": null,
+            "matchWholeWords": null,
+            "useGroupScoring": null,
+            "automationId": "",
+            "role": null,
+            "sticky": 0,
+            "cooldown": 0,
+            "delay": 0,
+            "triggers": [],
+            "displayIndex": 1,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
+        }
+    }
+}

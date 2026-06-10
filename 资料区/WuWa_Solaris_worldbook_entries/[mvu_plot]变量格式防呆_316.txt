@@ -1,0 +1,7 @@
+---
+变量输出格式强调:
+  rule: If you are instructed to update variables, please use the following format and insert them at the very end of your reply
+  format: |-
+    <UpdateVariable>
+    ...
+    </UpdateVariable>

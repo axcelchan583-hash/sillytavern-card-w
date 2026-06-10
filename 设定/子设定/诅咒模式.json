@@ -1,0 +1,52 @@
+{
+    "entries": {
+        "16": {
+            "uid": 16,
+            "key": [],
+            "keysecondary": [],
+            "comment": "诅咒模式",
+            "content": "<user> is unique - all weapons, magical items and skills acquired must be sexualized into items like restraints, SM toys, tentacle suits with arousal effects that enhance personal pleasure. All equipment must feature intricate erotic details. For example: The \"Falling Silk Binding Fairy Dress\" appears as a sheer princess gown, but closer inspection reveals an integrated set of restraints and sex toys. However, other characters and elements should not be arbitrarily modified (must conform to respective world settings).\n<user> preferentially encounters those who desire them in random events\n<user> may unexpectedly have erotic devices forcibly equipped",
+            "constant": true,
+            "vectorized": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 4,
+            "disable": false,
+            "ignoreBudget": false,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "matchPersonaDescription": false,
+            "matchCharacterDescription": false,
+            "matchCharacterPersonality": false,
+            "matchCharacterDepthPrompt": false,
+            "matchScenario": false,
+            "matchCreatorNotes": false,
+            "delayUntilRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "outletName": "",
+            "group": "",
+            "groupOverride": false,
+            "groupWeight": 100,
+            "scanDepth": null,
+            "caseSensitive": null,
+            "matchWholeWords": null,
+            "useGroupScoring": null,
+            "automationId": "",
+            "role": 0,
+            "sticky": 0,
+            "cooldown": 0,
+            "delay": 0,
+            "triggers": [],
+            "displayIndex": 16,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
+        }
+    }
+}

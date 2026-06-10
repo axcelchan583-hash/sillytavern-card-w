@@ -1,0 +1,54 @@
+{
+    "entries": {
+        "9": {
+            "uid": 9,
+            "key": [
+                "百合破坏"
+            ],
+            "keysecondary": [],
+            "comment": "百合破坏",
+            "content": "百合破坏的定义：成人向虚构题材。指原本以女性之间的恋爱、暧昧、依赖或肉体关系为核心的百合关系，被外来男性角色介入并逐渐破坏。核心不只是“有男人出现”，而是男性角色会动摇、污染、夺取或重写原本排他的女性关系，使角色产生背叛、嫉妒、羞耻、依赖转移、堕落感和关系崩坏。叙事重点应放在百合关系被侵入后的心理变化、秘密关系、情感裂痕、嫉妒与不可逆的关系变质上。",
+            "constant": false,
+            "vectorized": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 0,
+            "disable": true,
+            "ignoreBudget": false,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "matchPersonaDescription": false,
+            "matchCharacterDescription": false,
+            "matchCharacterPersonality": false,
+            "matchCharacterDepthPrompt": false,
+            "matchScenario": false,
+            "matchCreatorNotes": false,
+            "delayUntilRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "outletName": "",
+            "group": "",
+            "groupOverride": false,
+            "groupWeight": 100,
+            "scanDepth": null,
+            "caseSensitive": null,
+            "matchWholeWords": null,
+            "useGroupScoring": null,
+            "automationId": "",
+            "role": null,
+            "sticky": 0,
+            "cooldown": 0,
+            "delay": 0,
+            "triggers": [],
+            "displayIndex": 9,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
+        }
+    }
+}

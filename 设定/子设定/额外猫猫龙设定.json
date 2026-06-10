@@ -1,0 +1,52 @@
+{
+    "entries": {
+        "8": {
+            "uid": 8,
+            "key": [],
+            "keysecondary": [],
+            "comment": "额外猫猫龙设定",
+            "content": "猫猫龙作为幻想种的巅峰，注意行为逻辑，古龙级猫猫龙远强于普通人类魔术师，只有英灵级别才能抗衡\n猫猫龙会龙吼、猫猫龙魔法等等\n猫猫龙数量参考：一个人类数万的城市、猫灯数千至上万、猫猫龙数百。\n一个人类数千万的城市，猫猫龙相应数万等。\n繁华的城市猫猫龙比例会多一些，属于少，但是还是经常能遇到同类的地步。\n简单的来说，一只普通猫猫龙的价值和能力比得上数千普通人。\n但是猫猫龙内部是倾向于平等的\n注意猫灯和猫猫龙是两个完全不同的物种。\n普通猫猫龙的寿命类似于普通人类，但可以通过修炼延长，人类和猫灯同理",
+            "constant": true,
+            "vectorized": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 0,
+            "disable": true,
+            "ignoreBudget": false,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "matchPersonaDescription": false,
+            "matchCharacterDescription": false,
+            "matchCharacterPersonality": false,
+            "matchCharacterDepthPrompt": false,
+            "matchScenario": false,
+            "matchCreatorNotes": false,
+            "delayUntilRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "outletName": "",
+            "group": "",
+            "groupOverride": false,
+            "groupWeight": 100,
+            "scanDepth": null,
+            "caseSensitive": null,
+            "matchWholeWords": null,
+            "useGroupScoring": null,
+            "automationId": "",
+            "role": null,
+            "sticky": 0,
+            "cooldown": 0,
+            "delay": 0,
+            "triggers": [],
+            "displayIndex": 8,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
+        }
+    }
+}

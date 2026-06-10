@@ -1,0 +1,35 @@
+---
+变量输出禁词:
+  rule: Additionally, during variable updates, the following banned words are ABSOLUTELY PROHIBITED:
+<ban>
+- 共 犯
+- 极 其
+- 小动物比喻
+- 语气xx（语气形容都禁止）
+- 不是xx，而是xx
+- 一 丝
+- 一 抹
+- 四 肢 百 骸
+- 不 易 察 觉
+- 生 理 性
+- 虔诚
+- 沙哑
+- 指 节 泛 白
+- 骨 节 发 白
+- 发 白
+- 手术刀类比喻
+- 针类比喻
+- 不容质疑
+- 不容
+- 高亢
+- 尖叫
+- 狂热
+- 凄厉
+- 惨叫
+- 甬道
+- 弓起
+- 溺水
+- 浮木
+- 神明
+- 绝望
+</ban>

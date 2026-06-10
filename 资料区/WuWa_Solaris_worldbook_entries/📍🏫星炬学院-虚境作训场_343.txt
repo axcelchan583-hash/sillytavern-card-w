@@ -1,0 +1,7 @@
+
+<LOCATION_Startorch_Academy_Training>
+## 星炬学院·虚境作训场
+
+- **功能**：用于隧者适格者进行模拟驾驶训练的场所，位于教学区露天中央，设有高拟真度的球形驾驶舱。
+- **现状**：因十几年前爱弥斯的“失踪”事件而被尘封，现已废弃。
+</LOCATION_Startorch_Academy_Training>
